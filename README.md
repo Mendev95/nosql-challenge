@@ -1,1 +1,1 @@
-# nosql-challenge
+Notebook with codes are in resources
